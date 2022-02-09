@@ -11,11 +11,11 @@ You are required to model the demand for shared bikes with the available indepen
 ### Steps for Model Building
 1.Reading and Understanding Data  
 2. Data quality check
-2.Data visulaisation and clening
-3.creating dummy variable
-4.Splitting the Data into Training and Testing Sets  
-5.Feature Scaling  
-6.Building the Model  
-7.Residual Analysis of the train data  
-8.Making predictions using final model  
-9.Model Evaluation
+3.Data visulaisation and clening
+4.creating dummy variable
+5.Splitting the Data into Training and Testing Sets  
+6.Feature Scaling  
+7.Building the Model  
+8.Residual Analysis of the train data  
+9.Making predictions using final model  
+910.Model Evaluation
